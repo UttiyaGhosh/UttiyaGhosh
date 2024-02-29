@@ -17,9 +17,13 @@ solutions in a dynamic and collaborative environment.
 <h2 style="margin-top:-4px;"> 🛠️ Skills </h2>
 
 **Backend Technologies:** Java, JSP, Spring, Kafka, Junit, Maven, Hystrix, Ribbon
+
 **Frontend Technologies:** JavaScript, React, NextJs, HTML, CSS, Tailwind, Bootstrap
+
 **Database Technologies:** PostgreSQL, MongoDB
+
 **Software architecture:** System Design, Microservice Architecture, Agile, Design Patterns
+
 **DevOps Practices:** AWS, Jenkins, Docker, Git, Jira
 
 <h2 style="margin-top:-5px;"> 📊 Github stats </h2>
