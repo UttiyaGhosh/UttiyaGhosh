@@ -29,6 +29,6 @@ solutions in a dynamic and collaborative environment.
 <h2 style="margin-top:-5px;"> 📊 Github stats </h2>
 
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=uttiyaghosh&show_icons=true&theme=transparent"/>
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=uttiyaghosh&&theme=transparent&show_icons=true)]" /> 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=uttiyaghosh&show_icons=true&theme=transparent"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=uttiyaghosh&&theme=transparent&show_icons=true)]" /> 
 
